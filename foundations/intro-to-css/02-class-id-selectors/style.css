@@ -1,0 +1,19 @@
+.impares{
+    background: rgb(245, 192, 201);
+    font-family: Verdana, Geneva, Tahoma, sans-serif, DeJaVu, sans-serif;
+}
+
+#n2{
+    color: rgb(3, 3, 246);
+    font-size: 36px;
+}
+
+#n3{
+    font-size: 24px;
+}
+
+#n4{
+    background: rgb(33, 235, 33);
+    font-size: 24px;
+    font-weight: bold;
+}
